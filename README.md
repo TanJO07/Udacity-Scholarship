@@ -18,5 +18,5 @@ The Landing Page Project showcases how JavaScript can be used to manipulate the 
 - The original `index.html` and `css/styles.css` are provided by [Udacity].
 - The original `index.html` provided by [Udacity] has 3 sections and 1 other section is added to test the functionality of adding new navigation menu items automatically. Additional sections are added to test the functionality of automatically adding new navigation menu items.
 - All other development features -including CSS new rules- are done in `js/app.js`.
-- Developed by ##Tanisha Joshi - Project 2 ##Udacity.
+- Developed by [Tanisha Joshi] - Project 2 [Udacity].
 
